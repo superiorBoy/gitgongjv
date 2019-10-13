@@ -1,4 +1,4 @@
-
+﻿
 wo tian jia le gong neng
 
 这是我的文件
@@ -6,3 +6,5 @@ wo tian jia le gong neng
  di 2 ci geng gai
 
 2hao  wo zeng jia le shou ye
+ 
+1hao wo tian jia ding wei
